@@ -1,0 +1,9 @@
+
+- Binding 1 chiều: Khi dữ liệu thay đổi thì giao diện không thay đổi theo
+
+- Biding 2 chiều: Khi dữ liệu thay đổi thì giao diện sẽ cập nhật lại dữ liệu
+
+- Kiểu dữ liệu JSON
+  Cú pháp:
+    + "key" : "value"
+    +  "key" : 1
